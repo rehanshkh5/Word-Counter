@@ -20,6 +20,7 @@ body {
   width: 658px;
   height: 466px;
   border: none;
+  resize: none;
 }
 
 .counter {
