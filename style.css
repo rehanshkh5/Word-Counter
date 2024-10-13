@@ -19,10 +19,12 @@ body {
 .textA {
   width: 658px;
   height: 466px;
-  border: none;
+  resize: none;
+  overflow: auto;
+}
+textarea {
   resize: none;
 }
-
 .counter {
   display: flex;
   gap: 21px;
