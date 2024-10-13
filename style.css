@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f9fafa;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 12rem; /* Consider changing this value based on your layout */
+  padding: 20px 20px 50px;
+}
+
+.textA {
+  width: 658px;
+  height: 466px;
+  border: none;
+}
+
+.counter {
+  display: flex;
+  gap: 21px;
+  justify-content: center;
+}
+
+.tools {
+  margin-left: 5rem;
+  background: #edeef1;
+  width: 22%;
+  text-align: center;
+}
+.contanetArea {
+  width: 578px;
+}
